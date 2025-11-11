@@ -105,7 +105,7 @@ Make sure you have the following software installed on your system:
     php artisan queue:work 
     ```
 
-    Your application will now run queue
+    Your application will now run queue.
 
 10.  **Run the Shedule**
     You're all set! Start the Laravel Queue.
