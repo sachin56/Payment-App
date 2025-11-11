@@ -127,5 +127,8 @@ Make sure you have the following software installed on your system:
 ### Job Function Screen
 [View Job Function Screen](https://prnt.sc/SypudGSCCV_h)
 
+### Job Daily Shedule
+[View Job Daily Shedule](https://prnt.sc/IX4ToahOND_A)
+
 
 
