@@ -38,7 +38,7 @@ Make sure you have the following software installed on your system:
 
     ```bash
     git clone [https://github.com/sachin56/Payment-App.git](https://github.com/sachin56/Payment-App.git)
-    cd CIABOC
+    cd payment-app
     ```
 
 2.  **Install PHP Dependencies**
