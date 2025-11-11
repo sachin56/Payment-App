@@ -117,3 +117,13 @@ Make sure you have the following software installed on your system:
     Your application will now run Shedule
 
 ---
+
+## 🧪 Screen Shots
+
+### Upload Screen
+![Upload Screen](https://prnt.sc/wiu-PNZh-RnJ)
+
+### Job Function Screen
+![Job Function Screen](https://prnt.sc/SypudGSCCV_h)
+
+
