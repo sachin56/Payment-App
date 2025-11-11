@@ -130,6 +130,9 @@ Make sure you have the following software installed on your system:
 ### Job Daily Shedule
 [View Job Daily Shedule](https://prnt.sc/IX4ToahOND_A)
 
+### Email Screen shot
+[View Email Screen shot](https://prnt.sc/Zl2uKC0KqfmZ)
+
 ### Video Link
 [View Video Link](https://drive.google.com/drive/folders/14NS9j__zT7FDP6fmwO4ZaxAQorc9mh6c?usp=sharing)
 
